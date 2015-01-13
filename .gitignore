@@ -1,0 +1,23 @@
+.svn
+*.pdb
+*.dll
+*.cache
+*.exe
+*.sdf
+*.tagsrc
+*.user
+*.mptags
+*.mcs
+*.tagsrc
+*.csexe
+*.ipch
+*.opensdf
+*CreateClasses.c
+*.suo
+Debug
+Objects
+Output
+/Runner/Runner/Testing/Designer Convert Story Files
+/Model/Carina.eap
+/UPDATE.*
+/RUpdate/*
